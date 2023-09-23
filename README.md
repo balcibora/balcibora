@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a freshman student at Bilkent University, Ankara, Turkey. I'm currently learning Java and
+curious to learn more about artificial intelligence and machine learning.
 
 <!--
 **balcibora/balcibora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
