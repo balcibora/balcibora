@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a freshman student at Bilkent University, Ankara, Turkey. I'm currently learning Java and
+I am a freshman CS major at Bilkent University, Ankara, Turkey. I'm currently learning Java and
 curious to learn more about artificial intelligence and machine learning.
 
 <!--
